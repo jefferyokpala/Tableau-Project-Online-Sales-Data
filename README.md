@@ -10,7 +10,7 @@ To visualize the dataset on Tableau to observe trends and gain insight into the 
 
 ## Data Source
 
-I obtained the online retail sales data of an ecommerce store on Kaggle, and it can be found here and cleaned it using MySQL Workbench. The details of me cleaning the dataset can be found here.
+I obtained the online retail sales data of an ecommerce store on Kaggle, and it can be found here and cleaned it using MySQL Workbench. The details of me cleaning the dataset can be found [here](https://www.kaggle.com/datasets/umerkk12/online-retail-business).
 
 ## Tools
 
