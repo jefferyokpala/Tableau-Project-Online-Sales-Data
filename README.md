@@ -28,7 +28,7 @@ Tableau
 
 ![image alt](https://github.com/jefferyokpala/Tableau-Project-Online-Sales-Data/blob/main/images/image2.png?raw=true)
 
-* In sheet 3, I created a bar chart visualizing the sales revenue per month and observed that the ecommerce company generated the most revenue by far in November (~$1,500,000). The next three months were October, September, and December. This means that sales are highest during the holiday months, and the ecommerce company should have enough inventory and staff for the delivery logistics. They can also engage in more holiday promotions to boost sales further.
+* In sheet 3, I created a bar chart visualizing the sales revenue per month and observed that the ecommerce company generated the most revenue by far in November (~$1,500,000). The next three months were October, September, and December. This means that sales are highest during the holiday months, and the ecommerce company should have enough inventory and staff for the delivery logistics to handle orders during that period. They can also engage in more holiday promotions to increase the sales figures.
 
 ![image alt](https://github.com/jefferyokpala/Tableau-Project-Online-Sales-Data/blob/main/images/image3.png?raw=true)
 
@@ -36,7 +36,7 @@ Tableau
 
 ![image alt](https://github.com/jefferyokpala/Tableau-Project-Online-Sales-Data/blob/main/images/image6.png?raw=true)
 
-* In Sheet 5, I wanted to see the revenue trend per month so I created a line chart to visualize that. The chart showed that revenue was more or less the same from January to August. Revenue spiked in September through November but dipped in December. This suggests that people were shopping in preparation for the holiday season.
+* In Sheet 5, I wanted to see the revenue trend per month so I created a line chart to visualize that. The chart showed that revenue was more or less the same from January to August. Revenue spiked in September through November but dipped in December. That spike suggests that people were shopping more in that period in preparation for the holiday season.
 
 ![image alt](https://github.com/jefferyokpala/Tableau-Project-Online-Sales-Data/blob/main/images/image5.png?raw=true)
 
@@ -44,7 +44,7 @@ Tableau
 
 ![image alt](https://github.com/jefferyokpala/Tableau-Project-Online-Sales-Data/blob/main/images/image1.png?raw=true)
 
-* In sheet 7, I created a line chart to see how many customers shopped at the ecommerce store per month. I wanted to see the trend as the months went by to know if the store was gaining or losing customers. The trend I uncovered was similar to that of revenue in Sheet 5. The number of shoppers was more or less the same from January to August and grew from September to the end of the year. However, there was a dip in December, likely because people had already done their holiday shopping in November.
+* In sheet 7, I created a line chart to see how many customers shopped at the ecommerce store per month. I wanted to see the trend as the months went by to know if the store was gaining or losing customers. The trend I uncovered was similar to that of revenue in Sheet 5. The number of shoppers were more or less the same from January to August but grew from September to the end of the year. However, there was a dip in December, likely because people had already done their holiday shopping in November.
 
 ![image alt](https://github.com/jefferyokpala/Tableau-Project-Online-Sales-Data/blob/main/images/image7.png?raw=true)
 
